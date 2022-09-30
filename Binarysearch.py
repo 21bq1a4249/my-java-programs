@@ -16,4 +16,4 @@ result=Binarysearch(l,low,len(l)-1,key)
 if result==-1:
     print("element not found")
 else:
-print("element fount at",result)
+   print("element found at",result)
